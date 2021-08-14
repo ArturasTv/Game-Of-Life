@@ -1,0 +1,25 @@
+.main-window {
+  height: 250px;
+  width: 400px;
+  text-align: center;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.helper {
+  font-size: 12px;
+}
+.start {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 20px;
+  font-weight: bold;
+  border-radius: 25px;
+  border: 1px solid #99999959;
+  display: inline-block;
+  cursor: pointer;
+}
